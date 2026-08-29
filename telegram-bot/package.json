@@ -1,12 +1,11 @@
 {
-  "name": "mama-lena-telegram-bot",
+  "name": "mamalena-bot",
   "version": "1.0.0",
-  "description": "Telegram bot для кафе Мама Лена",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
   },
   "dependencies": {
-    "node-telegram-bot-api": "^0.64.0"
+    "telegraf": "^4.16.3"
   }
 }
